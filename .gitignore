@@ -1,5 +1,5 @@
 env/
 app/.env
-
+gitignore/
 **/__pycache__/
 
